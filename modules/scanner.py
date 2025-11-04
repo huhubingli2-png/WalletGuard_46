@@ -20,3 +20,5 @@ def scan_wallet(address):
     except Exception as e:
         print(f"扫描失败: {e}")
         return []
+# 功能分支 feature/scanner 添加的注释
+print("正在执行 scanner 模块")
