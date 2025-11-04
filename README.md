@@ -14,4 +14,8 @@ WalletGuard_XX 是一个用于自动化检测和撤销区块链钱包授权的 P
 
 ```bash
 pip install -r requirements.txt
+<<<<<<< HEAD
 > 本项目由 hubingli 独立开发，欢迎学习参考！
+=======
+> 本项目由 hubingli 与协作者共同开发，欢迎参与贡献！
+>>>>>>> dev
