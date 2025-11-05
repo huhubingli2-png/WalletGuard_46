@@ -1,6 +1,6 @@
-# WalletGuard_XX
+# WalletGuard_46
 
-WalletGuard_XX 是一个用于自动化检测和撤销区块链钱包授权的 Python 工具，支持 BSC 链，结合 BscScan 和 Revoke.cash API，帮助用户识别高风险授权并快速处理。
+WalletGuard_46 是一个用于自动化检测和撤销区块链钱包授权的 Python 工具，支持 BSC 链，结合 BscScan 和 Revoke.cash API，帮助用户识别高风险授权并快速处理。
 
 ## ✨ 功能特点
 
